@@ -125,7 +125,7 @@ ul a:hover::before {
     background-position: center;
     align-items: center;
     display: flex;
-    height: 40vh;
+    /* height: 40vh; */
 
     .icon-circle {
         border-color: var(--light);
