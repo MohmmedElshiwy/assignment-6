@@ -116,7 +116,9 @@ ul a:hover::before {
     color: var(--light);
     border-color: var(--purple);
 }
+a{
 
+}
 .overlay {
     background: linear-gradient(#0079fae3, #0079fae3), url(../img/post-3.jpg);
     background-size: contain;
