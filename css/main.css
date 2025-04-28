@@ -133,7 +133,10 @@ ul a:hover::before {
     }
 
 }
-
+.arrow{
+    top: 90%;
+    left: 90%;
+}
 .more {
     width: 2rem;
     height: 2rem;
